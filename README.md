@@ -1,4 +1,6 @@
 # MoreFPS
  Improve computer performance
 
-1- * [ ] data gathering
+### Work in progress
+
+* [ ] 1- Data gathering
