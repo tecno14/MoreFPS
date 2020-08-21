@@ -1,0 +1,153 @@
+Software\OS\Windows\SandBox\ //brotect from virusis
+
+	Sandboxie: https://www.sandboxie.com 
+
+	Shade Sandbox: https://www.shadesandbox.com 
+
+	Toolwiz Time Freeze: http://www.toolwiz.com 
+
+	Shadow Defender: https://www.shadowdefender.com 
+
+	Virtualbox: https://www.virtualbox.org 
+
+	VMWare: https://www.vmware.com
+
+Software\OS\Windows\tools\
+
+	Windows Repair Toolbox
+	https://windows-repair-toolbox.com/
+	(Almost) everything you need to repair Windows problems in one small handy tool.
+
+	Winaero
+	https://winaero.com/
+	all-in-one application which will include most options available in my free Winaero apps and extend it as much as possible.
+		
+	Tweak UI
+	https://www.majorgeeks.com/files/details/tweak_ui.html
+	you can adjust your Windows User Interface, including menu speed, window animation, and Microsoft Internet Explorer. windows xp
+	
+	Contig v1.8
+	https://docs.microsoft.com/en-us/sysinternals/downloads/contig
+	disk defraggers https://youtu.be/bD18drcFPVc
+
+Software\OS\Windows\Windows10\
+	
+	set GameMode Enabled https://youtu.be/5McEwmlCIiE
+	
+	Theme //add background and color theme customaizer in future
+		set personalize -> Colors -> Choose your default Windows Mode	<Dark>
+		set personalize -> Colors -> Choose your default app mode		<Dark>
+	
+	Customaize 'Windows explorer' icon view
+		change view any folder
+		open 'folder option' -> view -> <Apply to Folders>
+	
+	Transparency effects (Optional for gaming ?)
+		set personalize -> Colors -> Choose your default app mode		<Off>
+	
+	Uninstall "Microsoft OneDrive"
+		Control Panal -> Uninstall a program -> Microsoft OneDrive
+	
+	RunAtStartUP programs
+		Task Manager -> Startup -> <Disable> //for all
+	
+	Gaming Setting Win10
+		set Setting -> Gaming -> Game bar <Off>
+		set Setting -> Gaming -> Open Game bar using ... <Off>
+	
+	Default Apps Win10
+		set Setting -> Apps -> <Uninstall> //for most (personal)
+	
+	Cortana //personal
+		set Setting -> Cortana -> <Off> //for all 
+		hide Cortana button taskbar
+		//delete cortana at all
+	
+	System Performance Options
+		This PC Proprtes -> Advanced system setting -> <Off>//all (optional)
+		
+	StartMenu apps
+		uninstall each one
+		
+	High Performanse
+		Battary -> High //special case for laptops
+	
+Software\OS\Windows\
+	
+	format OS
+		choose correct OS for your PC
+		clear format is better and 2 time at least /year
+	
+	
+	(optional) show desktop icons
+
+Software\OS\
+
+	install correct drivers
+		//how to get it - up2date 
+		
+	Game Boosters
+		https://www.ghacks.net/2015/05/23/do-game-boosters-improve-pc-gaming-performance/
+		//All Game Boosters run on the machine listed above did not improve gaming performance significantly.
+
+Hardware\
+	
+	bottleneck
+	//what is , dose I have it and how to fix it
+	
+	غبار
+	//معايير التنظيف وطريقة معرفة الموعد المناسب
+	
+	التبريد
+	//قياس الحرارة والحدود  الجيدة والخطرة والحلول
+	
+	Benchmark
+		https://youtu.be/KbMsw3bFu6U
+		
+Hardware\HardDisk\
+	
+	Defraggers
+	
+Software\Game\
+	
+	//search for game community and specification like game engen bust ...
+	
+	How to Overclock Your Screen Resolution For Gaming
+		https://www.maketecheasier.com/downsampling-overclock-screen-resolution-for-gaming/
+		
+Software\OS\Windows\Emulater\
+
+	Android
+	OldWindows
+	PS
+	...
+
+Hardware\
+	
+	Overclock //all PC componant
+
+Hardware\GPU\
+		
+		control panal configuration settings
+		
+Hardware\GPU\Intel
+Hardware\GPU\Nvidia
+
+	Nvidia Control Panel Settings: What Do They All Mean?
+		https://www.maketecheasier.com/nvidia-control-panel-settings/
+		
+	Overclock MSI Afterburner 
+		https://www.guru3d.com/files-details/msi-afterburner-beta-download.html
+		
+	G Sync
+		https://www.maketecheasier.com/is-g-sync-worth-it-nvidia-tech/
+
+Hardware\GPU\AMD
+
+	AMD Radeon Settings – What Do They All Mean?
+		https://www.maketecheasier.com/amd-radeon-global-graphics-settings/
+
+Hardware\GPU\AMD\Linux\
+
+	How to Overclock Your AMD GPU with AMDGPU on Linux
+		https://www.maketecheasier.com/overclock-amd-gpu-linux/
