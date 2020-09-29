@@ -1,4 +1,4 @@
-# MoreFPS
+# PC More FPS
  Improve computer performance
 
 ### Work in progress
