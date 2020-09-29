@@ -1,4 +1,4 @@
-# PC More FPS
+# PC Speed Up
  Improve computer performance
 
 ### Work in progress
